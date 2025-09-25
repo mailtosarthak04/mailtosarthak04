@@ -1,16 +1,16 @@
-## Hi there 👋
+# sarthakpandey/README.md
 
-<!--
-**mailtosarthak04/mailtosarthak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Sarthak Pandey  
+💻 Enthusiastic coder and problem solver who loves turning ideas into reality.
 
-Here are some ideas to get you started:
+✨ Currently diving into: Python, Java, SQL, HTML, CSS, and JavaScript  
+🌱 Always eager to sharpen my skills and explore new technologies.  
+📫 Feel free to reach out: sarthakpandey@example.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Let's connect  
+LinkedIn: Sarthak Pandey  
+
+⚒️ Tech Stack & Tools I Work With  
+Python | Java | SQL | HTML | CSS | JavaScript  
+
+⭐ "Build, Break, Debug, Repeat — that’s how I grow!"  
