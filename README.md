@@ -5,10 +5,10 @@
 
 ✨ Currently diving into: Python, Java, SQL, HTML, CSS, and JavaScript  
 🌱 Always eager to sharpen my skills and explore new technologies.  
-📫 Feel free to reach out: sarthakpandey@example.com  
+📫 Feel free to reach out: mailtosarthak04@gmail.com  
 
 🌐 Let's connect  
-LinkedIn: Sarthak Pandey  
+LinkedIn: www.linkedin.com/in/sarthak-pandey-91aa2b1a8
 
 ⚒️ Tech Stack & Tools I Work With  
 Python | Java | SQL | HTML | CSS | JavaScript  
