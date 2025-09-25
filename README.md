@@ -10,8 +10,8 @@ Python | Java | SQL | HTML | CSS | JavaScript
 ### 🌱 Always eager to learn new technologies and improve my skills.
 
 ### 📫 Get in touch
-[Email me](mailtosarthak04@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/sarthak-pandey-91aa2b1a8/)  
+mailtosarthak04@gmail.com  
+https://www.linkedin.com/in/sarthak-pandey-91aa2b1a8/ 
 
 ---
 
