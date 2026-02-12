@@ -43,20 +43,36 @@
 
 ---
 
-### 🧩 Featured Projects
-#### 🧠 [smart-bmi-coach](https://github.com/mailtosarthak04/smart-bmi-coach)
+## 🧩 Featured Projects
+
+### 🧠 [smart-bmi-coach](https://github.com/mailtosarthak04/smart-bmi-coach)
 A smart BMI Calculator built with **Python + Tkinter**.  
 Provides personalized **diet and exercise suggestions** based on BMI category.  
 
-#### 💻 [dsa-coding](https://github.com/mailtosarthak04/dsa-coding)
+### 💻 [dsa-coding](https://github.com/mailtosarthak04/dsa-coding)
 A curated collection of **Data Structures and Algorithms** problems with **optimized Java solutions**.  
 
 ---
 
-### 📈 GitHub Stats
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mailtosarthak04&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtosarthak04&layout=compact&theme=tokyonight)
+## 📈 GitHub Stats
+
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mailtosarthak04&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtosarthak04&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-⭐️ *"Striving to merge technology and logic to create meaningful solutions."*
+## 🚀 Real-Time Developer Dashboard
+
+### 📊 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mailtosarthak04&theme=tokyo-night&hide_border=true)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mailtosarthak04&theme=tokyonight&hide_border=true)
+
+### 📌 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mailtosarthak04&theme=tokyonight)
+
+---
+
+⭐️ *"Striving to merge technology and logic to create meaningful solutions."*  
